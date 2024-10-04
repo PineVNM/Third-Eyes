@@ -6,4 +6,9 @@ Achieved a detection accuracy ranging from 66.7 to 76.7%, varying based on diffe
 
 Presented at the Sligo Engineering & Technology Expo 2024.
 
-Tools Used: Python, Raspberry Pi, AI, LiDARs, Cameras
+Tools Used: 
+- Python
+- Raspberry Pi
+- AI
+- LiDARs
+- Cameras
